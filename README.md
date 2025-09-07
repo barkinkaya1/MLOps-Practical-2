@@ -21,3 +21,5 @@ The focus of this week was on learning basic Linux commands, practicing Git in t
 - [INFO] Added one synthetic row.
 - [REPORT] Dataset now has 151 rows.
 - [INFO] Done!
+
+![(smiley.jpg)](smiley.jpg)
