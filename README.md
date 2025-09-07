@@ -5,14 +5,14 @@ The focus of this week was on learning basic Linux commands, practicing Git in t
 
 # How To Run :
 
-# 1 clone the repo
+# 1 Clone The Repo
 - git clone (https://github.com/barkinkaya1/MLOps-Practical-2)
 - cd my_project
 
-# 2 make the script executable 
+# 2 Make The Script Executable 
 - chmod +x scripts/prep_data.sh
 
-# run the script
+# Run The Script
 - ./scripts/prep_data.sh
 
 # Expected Output 
